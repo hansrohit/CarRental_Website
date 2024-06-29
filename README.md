@@ -1,23 +1,39 @@
-# Patna-Car-Rental
-Online Car Rental Management System 
+# CarRental Website
 
-This is a Web based Application developed using PHP as a Host Language. Database for the Application is in "Database" folder. It can be imported to your localhost(phpMyAdmin) or any other servers. Also configure the "connection.php" to set up the necessary connections with the database.
+Welcome to the CarRental website repository! This project is a comprehensive platform for renting cars online, built using PHP and MySQL. Users can browse through various car options and make reservations easily.
 
-### Screenshots:
-> - Landing Page
-<img src="/Screenshots/index.jpg" width="800" height="450" alt="landing_page"/>
+FEATURES:
 
-> - Available Cars
-<img src="/Screenshots/available_cars.png" width="800" height="450" alt="available_cars"/>
+-> User-friendly Interface: Easy navigation and responsive design for a smooth user experience.
 
-> - Add Cars
-<img src="/Screenshots/add_car.png" width="800" height="700" alt="add_car"/>
+-> Car Listings: Extensive database of available cars with detailed descriptions and images.
 
-> - Booking Confirmation
-<img src="/Screenshots/booking_confirmation.png" width="800" height="800" alt="booking_confirm"/>
+-> Booking System: Simple and efficient car booking process.
 
-> - Return Car
-<img src="/Screenshots/return_car.png" width="800" height="450" alt="return_car"/>
+-> User Accounts: Secure user authentication and profile management.
 
-> - Booking Summary
-<img src="/Screenshots/bookings.png" width="800" height="450" alt="booking_summary"/>
+-> Booking History: Users can view and manage their booking history.
+
+-> Admin Panel: Administrators can manage car listings, bookings, and user accounts.
+
+USAGE:
+
+-> User Registration and Login:
+
+  * Users can register for an account and log in to access the booking system.
+
+-> Browse Cars:
+  
+  * Users can browse the available cars and view details.
+
+-> Make a Reservation:
+
+  * Users can book a car by selecting the desired dates and car model.
+
+-> Manage Bookings:
+  
+  * Users can view their booking history and manage their reservations.
+
+-> Admin Panel:
+
+  * Administrators can log in to the admin panel to manage car listings, bookings, and user accounts.
